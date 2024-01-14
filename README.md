@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # online-store
 # online-store
 # online-store
+# online-store
